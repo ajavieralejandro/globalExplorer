@@ -1,4 +1,3 @@
-import React from "react";
 
 export type HeroCoverProps = {
   /** URL de la imagen de fondo (ocupa toda la pantalla) */
