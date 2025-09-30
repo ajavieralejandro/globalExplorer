@@ -190,7 +190,7 @@ export default function TravelPackagesSection({
   };
 
   return (
-    <section className="bg-white">
+    <section className="bg-white m-20">
       <div className="mx-auto max-w-7xl ">
         {/* Header */}
         <div className="mb-6 flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
